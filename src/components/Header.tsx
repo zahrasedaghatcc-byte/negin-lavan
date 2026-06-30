@@ -91,7 +91,7 @@ const Header = () => {
         <div className="w-12 bg-white border hover:scale-110 rounded-full overflow-hidden transition-all">
           <Link to="/" className="block">
             <img
-              src="./../../public/images/logos/logo.png"
+              src="/images/logos/logo.png"
               alt="negin lavan logo"
               className="w-full"
             />
